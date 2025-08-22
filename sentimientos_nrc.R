@@ -34,3 +34,4 @@ resumen_emociones <- bind_cols(tokens, emociones) %>%
 
 resumen_emociones
 #anger anticipation disgust fear joy sadness surprise trust negative positive
+
